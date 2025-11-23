@@ -1,7 +1,7 @@
 # Praktikum-Pertemuan-Ke-10
 Tugas ini dibuat guna memenuhi tugas mata kuliah pengantar pemrograman
-# Nama : Rifki Ade Tia
-# Nim : 312510334
+# Nama  : Rifki Ade Tia
+# Nim   : 312510334
 # Kelas : TI.25.C5
 Deskripsi Program untuk mengelola data nilai mahasiswa menggunakan Dictionary Python. Program dapat menambah, mengubah, menghapus, menampilkan, dan mencari data mahasiswa.
 
@@ -17,3 +17,4 @@ Pilihan 5 (Cari): Ambil keyword. Loop melalui Dictionary, periksa apakah keyword
 Pilihan 6 (Keluar): Keluar dari loop dan menuju END.
 Lainnya: Tampilkan pesan error dan kembali ke Menu.
 END: Program selesai.
+![alt image](https://github.com/rifkiadetia/Praktikum-Pertemuan-Ke-10/blob/e4428c0151bb25f76ceb40771868371fc45d1af1/ss%20hasil%20pengerjaan/flowchart%20pert-10.jpg)
